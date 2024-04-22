@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "**/*.dart": "dart format --fix ./lib"
+  },
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^15.1.0"
+  },
+  "dependencies": {
+    "yarn": "^1.22.21"
+  }
+}

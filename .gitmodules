@@ -1,0 +1,3 @@
+[submodule "assets/translations"]
+	path = assets/translations
+	url = git@github.com:uaeaqar/aqar-lang.git

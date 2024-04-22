@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "114080338719",
+    "project_id": "anytime-workout",
+    "storage_bucket": "anytime-workout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114080338719:android:a35c2daa9bd666a163d62a",
+        "android_client_info": {
+          "package_name": "com.aspirewebs.anytimeworkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114080338719-5idrmchee9ounqsmljtqe07rka6f5nv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aspirewebs.anytimeworkout",
+            "certificate_hash": "b48af07a7de7ebb41a381cc3e6b757829249efde"
+          }
+        },
+        {
+          "client_id": "114080338719-rf94ll0ba015arome3giqmclij54bm62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aspirewebs.anytimeworkout",
+            "certificate_hash": "aa44413d84352028a73a438cb1c0bd144cc6febe"
+          }
+        },
+        {
+          "client_id": "114080338719-gt77cac2vgnq0asa9iek06dikp5s3lo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2HJPC4dy8qPeUyQmMug5Vm-pzHrUdGEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114080338719-gt77cac2vgnq0asa9iek06dikp5s3lo7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114080338719-cai643eonf9eni61051ck59i2hruv0vp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aspirewebs.anytimeworkout"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114080338719:android:1deedb0cd07595b763d62a",
+        "android_client_info": {
+          "package_name": "com.example.indoorstat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114080338719-gt77cac2vgnq0asa9iek06dikp5s3lo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2HJPC4dy8qPeUyQmMug5Vm-pzHrUdGEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114080338719-gt77cac2vgnq0asa9iek06dikp5s3lo7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114080338719-cai643eonf9eni61051ck59i2hruv0vp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aspirewebs.anytimeworkout"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
