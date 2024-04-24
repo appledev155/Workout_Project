@@ -79,4 +79,3 @@ const IconData start = Icons.directions_walk;
 const IconData cancle = Icons.cancel_outlined;
 const IconData list = Icons.list_alt;
 const IconData delete = Icons.delete;
-

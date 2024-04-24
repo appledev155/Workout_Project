@@ -11,6 +11,7 @@ import 'package:anytimeworkout/module/chat/pages/components/user_image.dart';
 import 'package:anytimeworkout/module/internet/bloc/internet_bloc.dart';
 import 'package:anytimeworkout/module/internet/config.dart';
 import 'package:anytimeworkout/views/screens/main_layout.dart';
+import 'package:anytimeworkout/views/screens/result/new.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
@@ -221,6 +222,11 @@ class MapCoordinate extends StatelessWidget {
                                     },
                                   ),
                                 ),
+                                // const SizedBox(height: 10,),
+                                // ElevatedButton(
+                                //     onPressed: () {
+                                //       Navigator.push(context, MaterialPageRoute(builder: ((context) => const NewList())));
+                                //     }, child: const Text("On Click"))
                               ],
                             ),
                           ),

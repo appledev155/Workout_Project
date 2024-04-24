@@ -11,6 +11,7 @@ const Color greyColor = Color.fromARGB(255, 238, 239, 240);
 const Color dividerColor = Color.fromARGB(255, 224, 224, 224);
 
 const Color lightColor = Color.fromARGB(255, 255, 255, 255);
+const Color greenColorDark = Color.fromARGB(255, 30, 158, 30);
 
 const Color primaryDark = Color(0xff096CAD);
 const Color darkColor = Color(0xFF666666);
@@ -28,4 +29,5 @@ const Color darkRedColor = Color.fromARGB(255, 255, 0, 0);
 const Color greenColor = Color.fromARGB(255, 32, 94, 32);
 const Color lightGreenColor = Color.fromARGB(255, 246, 255, 246);
 const Color lightBlueColor = Color.fromARGB(255, 163, 215, 248);
+const Color purpleColor = Color.fromARGB(255, 7, 61, 179);
 const Color selfChatBubbleColor = Color.fromARGB(150, 226, 255, 211);
